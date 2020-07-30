@@ -1,11 +1,13 @@
 # Hi there 👋
 
-<a href="https://twitter.com/foyoodo" target="_blank"><img src="https://img.shields.io/badge/-@foyoodo-1ea1f2?style=flat-square&labelColor=1ea1f2&logo=twitter&logoColor=white&link=https://twitter.com/foyoodo" /></a>
-<a href="mailto:foyoodo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-foyoodo@gmail.com-d4483c?style=flat-square&labelColor=d4483c&logo=gmail&logoColor=white&link=mailto:foyoodo@gmail.com" /></a>
+[![](https://img.shields.io/badge/-@foyoodo-1ea1f2?style=flat-square&labelColor=1ea1f2&logo=twitter&logoColor=white&link=https://twitter.com/foyoodo)](https://twitter.com/foyoodo)
+[![](https://img.shields.io/badge/-foyoodo@gmail.com-d4483c?style=flat-square&labelColor=d4483c&logo=gmail&logoColor=white&link=mailto:foyoodo@gmail.com)](mailto:foyoodo@gmail.com)
 
-I am a Software Engineering college student.
+<samp>I am a Software Engineering college student.</samp>
 
-**💫 Tech stacks know/using**
+<br />
+
+**💫 Tech stacks currently using**
 
 <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://raw.githubusercontent.com/Treldo/Treldo/master/assets/JavaScript.svg"></a></code>
 <code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://raw.githubusercontent.com/Treldo/Treldo/master/assets/Git.svg"></a></code>
@@ -13,7 +15,7 @@ I am a Software Engineering college student.
 <code><a href="https://isocpp.org/" target="_blank"><img height="50" src="https://raw.githubusercontent.com/Treldo/Treldo/master/assets/ISO_C++.svg"></a></code>
 
 
-**🌟 Looking forward to learn**
+**🌱 Looking forward to learn**
 
 <code><a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/" target="_blank"><img height="50" src="https://raw.githubusercontent.com/Treldo/Treldo/master/assets/Objective-C.svg"></a></code>
 <code><a href="https://developer.apple.com/swift/" target="_blank"><img height="50" src="https://raw.githubusercontent.com/Treldo/Treldo/master/assets/Swift.svg"></a></code>
@@ -23,8 +25,8 @@ I am a Software Engineering college student.
 
 <br />
 
-<details align="center">
-  <summary><b><samp> Fold Text</samp></b></summary>
-  <samp>
-  </samp>
-</details>
+![Treldo’s Github Stats](https://github-readme-stats.vercel.app/api?username=Treldo&show_icons=true&theme=dracula)
+
+<br />
+
+⭐️ From [Piyush Pravin](https://github.com/piyushP7pravin)
